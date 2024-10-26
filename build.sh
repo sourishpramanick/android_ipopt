@@ -126,7 +126,7 @@ if [ ! -d ipopt ] ; then
         ./get.Mumps
         cd $BASE/ipopt/ThirdParty/Metis
         # Define the old and new URLs
-        old_url="http://glaros.dtc.umn.edu/gkhome/fetch/sw/metis/metis-4.0.3.tar.gz"
+        old_url="http://glaros.dtc.umn.edu/gkhome/fetch/sw/metis/OLD/metis-4.0.3.tar.gz"
         new_url="https://sourceforge.net/projects/myosin/files/ipopt/metis-4.0.3.tar.gz"
 
         # Replace the old URL with the new URL in the get.Metis script
