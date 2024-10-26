@@ -117,8 +117,20 @@ if [ ! -d ipopt ] ; then
         cd $BASE/ipopt/ThirdParty/Lapack
         ./get.Lapack
         cd $BASE/ipopt/ThirdParty/Mumps
+        # Define the old and new URLs
+        old_url="http://mumps.enseeiht.fr/MUMPS_\${mumps_ver}.tar.gz"
+        new_url="http://coin-or-tools.github.io/ThirdParty-Mumps/MUMPS_4.10.0.tar.gz"
+
+        # Replace the old URL with the new URL in the get.Mumps script
+        sed -i "s|$old_url|$new_url|g" $BASE/ipopt/ThirdParty/Mumps/get.Mumps
         ./get.Mumps
         cd $BASE/ipopt/ThirdParty/Metis
+        # Define the old and new URLs
+        old_url="http://glaros.dtc.umn.edu/gkhome/fetch/sw/metis/metis-4.0.3.tar.gz"
+        new_url="https://sourceforge.net/projects/myosin/files/ipopt/metis-4.0.3.tar.gz"
+
+        # Replace the old URL with the new URL in the get.Metis script
+        sed -i "s|$old_url|$new_url|g" $BASE/ipopt/ThirdParty/Metis/get.Metis
         ./get.Metis
         cd $BASE
         
