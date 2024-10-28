@@ -1,0 +1,1027 @@
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:1764.32:
+
+     &           id%MYID_NODES, id%PTLUST_S(1),                         
+                                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ptrist' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:1796.23:
+
+     &          MTYPE, RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,              
+                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:1805.23:
+
+     &          MTYPE, RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,              
+                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:3753.13:
+
+     &       root%IPIV(1), root%LPIV, MASTER_ROOT, MYID_NODES,          
+             1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ipiv' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2101.39:
+
+        CALL DMUMPS_245(id%root, id%N, id%S(1), LA_PASSED,              
+                                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'a' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2141.42:
+
+           CALL DMUMPS_245(id%root, id%N, id%S(1), LA_PASSED,           
+                                          1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'a' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2253.23:
+
+     &          MTYPE, RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,              
+                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2264.16:
+
+     &          RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,                     
+                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2277.23:
+
+     &          MTYPE, RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,              
+                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2287.16:
+
+     &          RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,                     
+                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2344.23:
+
+     &          MTYPE, RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,              
+                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2707.49:
+
+     &          JDUMMY, id%KEEP(1), id%KEEP8(1), id%PROCNODE_STEPS(1),  
+                                                 1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'procnode_steps' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2715.16:
+
+     &          id%PTLUST_S(1), id%KEEP(1), id%KEEP8(1),                
+                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ptrist' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2726.42:
+
+          CALL DMUMPS_245( id%root, id%N, id%S(1), LA_PASSED,           
+                                          1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'a' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2772.48:
+
+     &          JDUMMY, id%KEEP(1),id%KEEP8(1), id%PROCNODE_STEPS(1),   
+                                                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'procnode_steps' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2782.16:
+
+     &          id%PTLUST_S(1), id%KEEP(1),id%KEEP8(1),                 
+                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ptrist' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:432.44:
+
+               CALL DMUMPS_564(id%KEEP(38), id%PROCNODE(1),             
+                                            1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'procnode' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:439.44:
+
+            CALL DMUMPS_537(id%N,id%NSLAVES,ICNTL(1),                   
+                                            1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'icntl' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:1311.14:
+
+     &        id%CANDIDATES(1,1), id%I_AM_CAND(1) )                     
+              1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'candidates' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:1668.20:
+
+     &        id%N, id%MAPPING(1),                                      
+                    1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'mapping' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:5128.8:
+
+     &  id%DBLARR(1), KEEP(13), id%INTARR(1),                           
+        1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'dblarr' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:432.44:
+
+               CALL DMUMPS_564(id%KEEP(38), id%PROCNODE(1),             
+                                            1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'procnode' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:439.44:
+
+            CALL DMUMPS_537(id%N,id%NSLAVES,ICNTL(1),                   
+                                            1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'icntl' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:1311.14:
+
+     &        id%CANDIDATES(1,1), id%I_AM_CAND(1) )                     
+              1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'candidates' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:1668.20:
+
+     &        id%N, id%MAPPING(1),                                      
+                    1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'mapping' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:5128.8:
+
+     &  id%DBLARR(1), KEEP(13), id%INTARR(1),                           
+        1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'dblarr' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part6.F:3575.14:
+
+     &        root%SCHUR_POINTER(1),                                    
+              1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'val_root' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part6.F:3615.14:
+
+     &        root%RG2L_ROW(1), root%RG2L_COL(1), INVERT,               
+              1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rg2l_row' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part3.F:6046.21:
+
+     &               id%ELTVAR( IELTPTR ), id%A_ELT( RELTPTR ),         
+                     1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'eltvar' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part3.F:6064.17:
+
+     &           id%ELTVAR(IELTPTR),                                    
+                 1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'elnodes' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part3.F:6072.17:
+
+     &           id%ELTVAR(IELTPTR),                                    
+                 1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'elnodes' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part3.F:6104.17:
+
+     &           id%ELTVAR(IELTPTR),                                    
+                 1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'elnodes' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part2.F:4416.31:
+
+         CALL DMUMPS_557(id%N, IPE(1), NV(1), IPS(1), NE(1),            
+                               1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ipe' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part2.F:4426.25:
+
+         CALL DMUMPS_201(NE(1), ND(1), id%INFOG(6), id%INFOG(5),        
+                         1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ne' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part2.F:4463.36:
+
+               CALL DMUMPS_97(id%N, FRERE(1), FILS(1),                  
+                                    1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'frere' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part2.F:4475.33:
+
+            CALL DMUMPS_97(id%N, FRERE(1), FILS(1), NFSIZ(1),           
+                                 1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'frere' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part2.F:2851.19:
+
+     &        PERM,FLAG(1))                                             
+                   1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'posi' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part2.F:2854.19:
+
+     &        PERM,FLAG(1))                                             
+                   1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'posi' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part6.F:3575.14:
+
+     &        root%SCHUR_POINTER(1),                                    
+              1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'val_root' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part6.F:3615.14:
+
+     &        root%RG2L_ROW(1), root%RG2L_COL(1), INVERT,               
+              1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rg2l_row' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part2.F:4416.31:
+
+         CALL DMUMPS_557(id%N, IPE(1), NV(1), IPS(1), NE(1),            
+                               1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ipe' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part2.F:4426.25:
+
+         CALL DMUMPS_201(NE(1), ND(1), id%INFOG(6), id%INFOG(5),        
+                         1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ne' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part2.F:4463.36:
+
+               CALL DMUMPS_97(id%N, FRERE(1), FILS(1),                  
+                                    1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'frere' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part2.F:4475.33:
+
+            CALL DMUMPS_97(id%N, FRERE(1), FILS(1), NFSIZ(1),           
+                                 1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'frere' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part2.F:2851.19:
+
+     &        PERM,FLAG(1))                                             
+                   1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'posi' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part2.F:2854.19:
+
+     &        PERM,FLAG(1))                                             
+                   1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'posi' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part3.F:6046.21:
+
+     &               id%ELTVAR( IELTPTR ), id%A_ELT( RELTPTR ),         
+                     1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'eltvar' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part3.F:6064.17:
+
+     &           id%ELTVAR(IELTPTR),                                    
+                 1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'elnodes' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part3.F:6072.17:
+
+     &           id%ELTVAR(IELTPTR),                                    
+                 1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'elnodes' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part3.F:6104.17:
+
+     &           id%ELTVAR(IELTPTR),                                    
+                 1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'elnodes' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part2.F:4416.31:
+
+         CALL DMUMPS_557(id%N, IPE(1), NV(1), IPS(1), NE(1),            
+                               1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ipe' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part2.F:4426.25:
+
+         CALL DMUMPS_201(NE(1), ND(1), id%INFOG(6), id%INFOG(5),        
+                         1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ne' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part2.F:4463.36:
+
+               CALL DMUMPS_97(id%N, FRERE(1), FILS(1),                  
+                                    1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'frere' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part2.F:4475.33:
+
+            CALL DMUMPS_97(id%N, FRERE(1), FILS(1), NFSIZ(1),           
+                                 1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'frere' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part2.F:2851.19:
+
+     &        PERM,FLAG(1))                                             
+                   1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'posi' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part2.F:2854.19:
+
+     &        PERM,FLAG(1))                                             
+                   1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'posi' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:545.36:
+
+            CALL DMUMPS_535( MTYPE, id%ISOL_loc(1),                     
+                                    1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'isol_loc' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:1224.36:
+
+            CALL DMUMPS_535( MTYPE, id%ISOL_loc(1),                     
+                                    1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'isol_loc' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:1756.32:
+
+     &           id%MYID_NODES, id%PTLUST_S(1),                         
+                                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ptrist' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:1764.32:
+
+     &           id%MYID_NODES, id%PTLUST_S(1),                         
+                                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ptrist' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:1796.23:
+
+     &          MTYPE, RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,              
+                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:1805.23:
+
+     &          MTYPE, RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,              
+                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:3753.13:
+
+     &       root%IPIV(1), root%LPIV, MASTER_ROOT, MYID_NODES,          
+             1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ipiv' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2101.39:
+
+        CALL DMUMPS_245(id%root, id%N, id%S(1), LA_PASSED,              
+                                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'a' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2141.42:
+
+           CALL DMUMPS_245(id%root, id%N, id%S(1), LA_PASSED,           
+                                          1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'a' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2253.23:
+
+     &          MTYPE, RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,              
+                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2264.16:
+
+     &          RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,                     
+                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2277.23:
+
+     &          MTYPE, RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,              
+                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2287.16:
+
+     &          RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,                     
+                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2344.23:
+
+     &          MTYPE, RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,              
+                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2707.49:
+
+     &          JDUMMY, id%KEEP(1), id%KEEP8(1), id%PROCNODE_STEPS(1),  
+                                                 1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'procnode_steps' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2715.16:
+
+     &          id%PTLUST_S(1), id%KEEP(1), id%KEEP8(1),                
+                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ptrist' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2726.42:
+
+          CALL DMUMPS_245( id%root, id%N, id%S(1), LA_PASSED,           
+                                          1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'a' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2772.48:
+
+     &          JDUMMY, id%KEEP(1),id%KEEP8(1), id%PROCNODE_STEPS(1),   
+                                                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'procnode_steps' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2782.16:
+
+     &          id%PTLUST_S(1), id%KEEP(1),id%KEEP8(1),                 
+                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ptrist' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:545.36:
+
+            CALL DMUMPS_535( MTYPE, id%ISOL_loc(1),                     
+                                    1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'isol_loc' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:1224.36:
+
+            CALL DMUMPS_535( MTYPE, id%ISOL_loc(1),                     
+                                    1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'isol_loc' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:1756.32:
+
+     &           id%MYID_NODES, id%PTLUST_S(1),                         
+                                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ptrist' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:1764.32:
+
+     &           id%MYID_NODES, id%PTLUST_S(1),                         
+                                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ptrist' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:1796.23:
+
+     &          MTYPE, RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,              
+                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:1805.23:
+
+     &          MTYPE, RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,              
+                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:3753.13:
+
+     &       root%IPIV(1), root%LPIV, MASTER_ROOT, MYID_NODES,          
+             1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ipiv' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2101.39:
+
+        CALL DMUMPS_245(id%root, id%N, id%S(1), LA_PASSED,              
+                                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'a' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2141.42:
+
+           CALL DMUMPS_245(id%root, id%N, id%S(1), LA_PASSED,           
+                                          1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'a' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2253.23:
+
+     &          MTYPE, RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,              
+                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2264.16:
+
+     &          RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,                     
+                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2277.23:
+
+     &          MTYPE, RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,              
+                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2287.16:
+
+     &          RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,                     
+                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2344.23:
+
+     &          MTYPE, RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,              
+                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2707.49:
+
+     &          JDUMMY, id%KEEP(1), id%KEEP8(1), id%PROCNODE_STEPS(1),  
+                                                 1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'procnode_steps' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2715.16:
+
+     &          id%PTLUST_S(1), id%KEEP(1), id%KEEP8(1),                
+                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ptrist' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2726.42:
+
+          CALL DMUMPS_245( id%root, id%N, id%S(1), LA_PASSED,           
+                                          1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'a' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2772.48:
+
+     &          JDUMMY, id%KEEP(1),id%KEEP8(1), id%PROCNODE_STEPS(1),   
+                                                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'procnode_steps' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2782.16:
+
+     &          id%PTLUST_S(1), id%KEEP(1),id%KEEP8(1),                 
+                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ptrist' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part3.F:6046.21:
+
+     &               id%ELTVAR( IELTPTR ), id%A_ELT( RELTPTR ),         
+                     1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'eltvar' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part3.F:6064.17:
+
+     &           id%ELTVAR(IELTPTR),                                    
+                 1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'elnodes' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part3.F:6072.17:
+
+     &           id%ELTVAR(IELTPTR),                                    
+                 1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'elnodes' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part3.F:6104.17:
+
+     &           id%ELTVAR(IELTPTR),                                    
+                 1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'elnodes' at (1)
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:432.44:
+
+               CALL DMUMPS_564(id%KEEP(38), id%PROCNODE(1),             
+                                            1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'procnode' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:439.44:
+
+            CALL DMUMPS_537(id%N,id%NSLAVES,ICNTL(1),                   
+                                            1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'icntl' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:1311.14:
+
+     &        id%CANDIDATES(1,1), id%I_AM_CAND(1) )                     
+              1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'candidates' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:1668.20:
+
+     &        id%N, id%MAPPING(1),                                      
+                    1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'mapping' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:5128.8:
+
+     &  id%DBLARR(1), KEEP(13), id%INTARR(1),                           
+        1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'dblarr' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:545.36:
+
+            CALL DMUMPS_535( MTYPE, id%ISOL_loc(1),                     
+                                    1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'isol_loc' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:1224.36:
+
+            CALL DMUMPS_535( MTYPE, id%ISOL_loc(1),                     
+                                    1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'isol_loc' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:1756.32:
+
+     &           id%MYID_NODES, id%PTLUST_S(1),                         
+                                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ptrist' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:1764.32:
+
+     &           id%MYID_NODES, id%PTLUST_S(1),                         
+                                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ptrist' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:1796.23:
+
+     &          MTYPE, RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,              
+                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:1805.23:
+
+     &          MTYPE, RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,              
+                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:3753.13:
+
+     &       root%IPIV(1), root%LPIV, MASTER_ROOT, MYID_NODES,          
+             1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ipiv' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2101.39:
+
+        CALL DMUMPS_245(id%root, id%N, id%S(1), LA_PASSED,              
+                                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'a' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2141.42:
+
+           CALL DMUMPS_245(id%root, id%N, id%S(1), LA_PASSED,           
+                                          1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'a' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2253.23:
+
+     &          MTYPE, RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,              
+                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2264.16:
+
+     &          RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,                     
+                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2277.23:
+
+     &          MTYPE, RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,              
+                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2287.16:
+
+     &          RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,                     
+                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2344.23:
+
+     &          MTYPE, RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,              
+                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2707.49:
+
+     &          JDUMMY, id%KEEP(1), id%KEEP8(1), id%PROCNODE_STEPS(1),  
+                                                 1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'procnode_steps' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2715.16:
+
+     &          id%PTLUST_S(1), id%KEEP(1), id%KEEP8(1),                
+                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ptrist' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2726.42:
+
+          CALL DMUMPS_245( id%root, id%N, id%S(1), LA_PASSED,           
+                                          1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'a' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2772.48:
+
+     &          JDUMMY, id%KEEP(1),id%KEEP8(1), id%PROCNODE_STEPS(1),   
+                                                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'procnode_steps' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2782.16:
+
+     &          id%PTLUST_S(1), id%KEEP(1),id%KEEP8(1),                 
+                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ptrist' at (1)
+ar: `u' modifier ignored since `D' is the default (see `U')
+libtool: install: warning: relinking `libcoinmumps.la'
+libtool: install: warning: relinking `libcoinmumps.la'
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:432.44:
+
+               CALL DMUMPS_564(id%KEEP(38), id%PROCNODE(1),             
+                                            1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'procnode' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:439.44:
+
+            CALL DMUMPS_537(id%N,id%NSLAVES,ICNTL(1),                   
+                                            1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'icntl' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:1311.14:
+
+     &        id%CANDIDATES(1,1), id%I_AM_CAND(1) )                     
+              1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'candidates' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:1668.20:
+
+     &        id%N, id%MAPPING(1),                                      
+                    1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'mapping' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:5128.8:
+
+     &  id%DBLARR(1), KEEP(13), id%INTARR(1),                           
+        1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'dblarr' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part6.F:3575.14:
+
+     &        root%SCHUR_POINTER(1),                                    
+              1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'val_root' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part6.F:3615.14:
+
+     &        root%RG2L_ROW(1), root%RG2L_COL(1), INVERT,               
+              1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rg2l_row' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:432.44:
+
+               CALL DMUMPS_564(id%KEEP(38), id%PROCNODE(1),             
+                                            1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'procnode' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:439.44:
+
+            CALL DMUMPS_537(id%N,id%NSLAVES,ICNTL(1),                   
+                                            1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'icntl' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:1311.14:
+
+     &        id%CANDIDATES(1,1), id%I_AM_CAND(1) )                     
+              1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'candidates' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:1668.20:
+
+     &        id%N, id%MAPPING(1),                                      
+                    1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'mapping' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:5128.8:
+
+     &  id%DBLARR(1), KEEP(13), id%INTARR(1),                           
+        1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'dblarr' at (1)
+ar: `u' modifier ignored since `D' is the default (see `U')
+libtool: install: warning: relinking `libcoinmumps.la'
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+mkdir: cannot create directory '.libs': File exists
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+libtool: install: warning: relinking `libcoinmumps.la'
+libtool: install: warning: relinking `libcoinmumps.la'
+mkdir: cannot create directory '.libs': File exists
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+mkdir: cannot create directory '.libs': File exists
+mkdir: cannot create directory '.libs': File exists
+mkdir: cannot create directory '.libs': File exists
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+mkdir: cannot create directory '.libs': File exists
+mkdir: cannot create directory '.libs': File exists
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+libtool: install: warning: relinking `libcoinlapack.la'
+../../../../../ThirdParty/Mumps/MUMPS/libseq/mpi.f:601.33:
+
+        CALL MUMPS_COPY_LOGICAL( SENDBUF, RECVBUF, COUNT )              
+                                 1
+Warning: Type mismatch in argument 's' at (1); passed INTEGER(4) to LOGICAL(4)
+../../../../../ThirdParty/Mumps/MUMPS/libseq/mpi.f:603.30:
+
+        CALL MUMPS_COPY_REAL( SENDBUF, RECVBUF, COUNT )                 
+                              1
+Warning: Type mismatch in argument 's' at (1); passed INTEGER(4) to REAL(4)
+../../../../../ThirdParty/Mumps/MUMPS/libseq/mpi.f:606.42:
+
+        CALL MUMPS_COPY_DOUBLE_PRECISION( SENDBUF, RECVBUF, COUNT )     
+                                          1
+Warning: Type mismatch in argument 's' at (1); passed INTEGER(4) to REAL(8)
+../../../../../ThirdParty/Mumps/MUMPS/libseq/mpi.f:608.33:
+
+        CALL MUMPS_COPY_COMPLEX( SENDBUF, RECVBUF, COUNT )              
+                                 1
+Warning: Type mismatch in argument 's' at (1); passed INTEGER(4) to COMPLEX(4)
+../../../../../ThirdParty/Mumps/MUMPS/libseq/mpi.f:610.40:
+
+        CALL MUMPS_COPY_DOUBLE_COMPLEX( SENDBUF, RECVBUF, COUNT )       
+                                        1
+Warning: Type mismatch in argument 's' at (1); passed INTEGER(4) to COMPLEX(8)
+../../../../../ThirdParty/Mumps/MUMPS/libseq/mpi.f:612.43:
+
+        CALL MUMPS_COPY_2DOUBLE_PRECISION( SENDBUF, RECVBUF, COUNT )    
+                                           1
+Warning: Type mismatch in argument 's' at (1); passed INTEGER(4) to REAL(8)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part3.F:6046.21:
+
+     &               id%ELTVAR( IELTPTR ), id%A_ELT( RELTPTR ),         
+                     1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'eltvar' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part3.F:6064.17:
+
+     &           id%ELTVAR(IELTPTR),                                    
+                 1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'elnodes' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part3.F:6072.17:
+
+     &           id%ELTVAR(IELTPTR),                                    
+                 1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'elnodes' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part3.F:6104.17:
+
+     &           id%ELTVAR(IELTPTR),                                    
+                 1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'elnodes' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part2.F:4416.31:
+
+         CALL DMUMPS_557(id%N, IPE(1), NV(1), IPS(1), NE(1),            
+                               1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ipe' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part2.F:4426.25:
+
+         CALL DMUMPS_201(NE(1), ND(1), id%INFOG(6), id%INFOG(5),        
+                         1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ne' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part2.F:4463.36:
+
+               CALL DMUMPS_97(id%N, FRERE(1), FILS(1),                  
+                                    1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'frere' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part2.F:4475.33:
+
+            CALL DMUMPS_97(id%N, FRERE(1), FILS(1), NFSIZ(1),           
+                                 1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'frere' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part6.F:3575.14:
+
+     &        root%SCHUR_POINTER(1),                                    
+              1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'val_root' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part6.F:3615.14:
+
+     &        root%RG2L_ROW(1), root%RG2L_COL(1), INVERT,               
+              1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rg2l_row' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part2.F:2851.19:
+
+     &        PERM,FLAG(1))                                             
+                   1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'posi' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part2.F:2854.19:
+
+     &        PERM,FLAG(1))                                             
+                   1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'posi' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:545.36:
+
+            CALL DMUMPS_535( MTYPE, id%ISOL_loc(1),                     
+                                    1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'isol_loc' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:1224.36:
+
+            CALL DMUMPS_535( MTYPE, id%ISOL_loc(1),                     
+                                    1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'isol_loc' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:1756.32:
+
+     &           id%MYID_NODES, id%PTLUST_S(1),                         
+                                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ptrist' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:1764.32:
+
+     &           id%MYID_NODES, id%PTLUST_S(1),                         
+                                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ptrist' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:1796.23:
+
+     &          MTYPE, RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,              
+                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:1805.23:
+
+     &          MTYPE, RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,              
+                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:3753.13:
+
+     &       root%IPIV(1), root%LPIV, MASTER_ROOT, MYID_NODES,          
+             1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ipiv' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2101.39:
+
+        CALL DMUMPS_245(id%root, id%N, id%S(1), LA_PASSED,              
+                                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'a' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2141.42:
+
+           CALL DMUMPS_245(id%root, id%N, id%S(1), LA_PASSED,           
+                                          1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'a' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2253.23:
+
+     &          MTYPE, RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,              
+                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2264.16:
+
+     &          RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,                     
+                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2277.23:
+
+     &          MTYPE, RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,              
+                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2287.16:
+
+     &          RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,                     
+                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2344.23:
+
+     &          MTYPE, RHS_MUMPS(IBEG), LD_RHS, NBRHS_EFF,              
+                       1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'rhs' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2707.49:
+
+     &          JDUMMY, id%KEEP(1), id%KEEP8(1), id%PROCNODE_STEPS(1),  
+                                                 1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'procnode_steps' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2715.16:
+
+     &          id%PTLUST_S(1), id%KEEP(1), id%KEEP8(1),                
+                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ptrist' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2726.42:
+
+          CALL DMUMPS_245( id%root, id%N, id%S(1), LA_PASSED,           
+                                          1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'a' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2772.48:
+
+     &          JDUMMY, id%KEEP(1),id%KEEP8(1), id%PROCNODE_STEPS(1),   
+                                                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'procnode_steps' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part8.F:2782.16:
+
+     &          id%PTLUST_S(1), id%KEEP(1),id%KEEP8(1),                 
+                1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'ptrist' at (1)
+ar: `u' modifier ignored since `D' is the default (see `U')
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:432.44:
+
+               CALL DMUMPS_564(id%KEEP(38), id%PROCNODE(1),             
+                                            1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'procnode' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:439.44:
+
+            CALL DMUMPS_537(id%N,id%NSLAVES,ICNTL(1),                   
+                                            1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'icntl' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:1311.14:
+
+     &        id%CANDIDATES(1,1), id%I_AM_CAND(1) )                     
+              1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'candidates' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:1668.20:
+
+     &        id%N, id%MAPPING(1),                                      
+                    1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'mapping' at (1)
+../../../../../ThirdParty/Mumps/MUMPS/src/dmumps_part5.F:5128.8:
+
+     &  id%DBLARR(1), KEEP(13), id%INTARR(1),                           
+        1
+Warning: Element of assumed-shaped or pointer array passed to array dummy argument 'dblarr' at (1)
+ar: `u' modifier ignored since `D' is the default (see `U')
+mkdir: cannot create directory '.libs': File exists
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+../../../../../../../Ipopt/src/contrib/LinearSolverLoader/LibraryHandler.c: In function 'LSL_loadSym':
+../../../../../../../Ipopt/src/contrib/LinearSolverLoader/LibraryHandler.c:166:9: warning: assignment discards 'const' qualifier from pointer target type
+     err = dlerror();  /* we have only one chance; a successive call to dlerror() returns NULL */ 
+         ^
+libtool: install: warning: relinking `libcoinmumps.la'
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+mkdir: cannot create directory '.libs': File exists
+../../../../../../../Ipopt/src/contrib/LinearSolverLoader/LibraryHandler.c: In function 'LSL_loadSym':
+../../../../../../../Ipopt/src/contrib/LinearSolverLoader/LibraryHandler.c:166:9: warning: assignment discards 'const' qualifier from pointer target type
+     err = dlerror();  /* we have only one chance; a successive call to dlerror() returns NULL */ 
+         ^
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+../../../../../../../Ipopt/src/contrib/LinearSolverLoader/LibraryHandler.c: In function 'LSL_loadSym':
+../../../../../../../Ipopt/src/contrib/LinearSolverLoader/LibraryHandler.c:166:9: warning: assignment discards 'const' qualifier from pointer target type
+     err = dlerror();  /* we have only one chance; a successive call to dlerror() returns NULL */ 
+         ^
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+mkdir: cannot create directory '.libs': File exists
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+mkdir: cannot create directory '.libs': File exists
+libtool: install: warning: relinking `libipopt.la'
+../../../../../../../Ipopt/src/contrib/LinearSolverLoader/LibraryHandler.c: In function 'LSL_loadSym':
+../../../../../../../Ipopt/src/contrib/LinearSolverLoader/LibraryHandler.c:166:9: warning: assignment discards 'const' qualifier from pointer target type
+     err = dlerror();  /* we have only one chance; a successive call to dlerror() returns NULL */ 
+         ^
+../../../../../../../Ipopt/src/contrib/LinearSolverLoader/LibraryHandler.c: In function 'LSL_loadSym':
+../../../../../../../Ipopt/src/contrib/LinearSolverLoader/LibraryHandler.c:166:9: warning: assignment discards 'const' qualifier from pointer target type
+     err = dlerror();  /* we have only one chance; a successive call to dlerror() returns NULL */ 
+         ^
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+mkdir: cannot create directory '.libs': File exists
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+libtool: install: warning: relinking `libipopt.la'
+libtool: install: warning: relinking `libipopt.la'
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+libtool: install: warning: relinking `libipopt.la'
+ar: `u' modifier ignored since `D' is the default (see `U')
+libtool: install: warning: relinking `libipopt.la'
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+mkdir: cannot create directory '.libs': File exists
+ar: `u' modifier ignored since `D' is the default (see `U')
+../../../../../../../Ipopt/src/contrib/LinearSolverLoader/LibraryHandler.c: In function 'LSL_loadSym':
+../../../../../../../Ipopt/src/contrib/LinearSolverLoader/LibraryHandler.c:166:9: warning: assignment discards 'const' qualifier from pointer target type
+     err = dlerror();  /* we have only one chance; a successive call to dlerror() returns NULL */ 
+         ^
+ar: `u' modifier ignored since `D' is the default (see `U')
+mkdir: cannot create directory '.libs': File exists
+ar: `u' modifier ignored since `D' is the default (see `U')
+libtool: install: warning: relinking `libipopt.la'
+ar: `u' modifier ignored since `D' is the default (see `U')
+Either everything has been built, or there was an error.
+
+Archiving static libraries.
+
+Adding arm libraries.
+
+Adding arm64 libraries.
+
+Adding mips libraries.
+
+Adding mips64 libraries.
+
+Adding x86 libraries.
+
+Adding x86_64 libraries.
+
+Compressing static libraries.
+
+Archiving shared libraries.
+
+Adding arm libraries.
+
+Adding arm64 libraries.
+
+Adding mips libraries.
+
+Adding mips64 libraries.
+
+Adding x86 libraries.
+
+Adding x86_64 libraries.
+
+Compressing shared libraries.
